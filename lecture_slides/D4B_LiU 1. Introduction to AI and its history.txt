@@ -1,0 +1,134 @@
+AI
+Introduction to AI and its history
+
+2
+
+Applications of AI
+
+Computer Vision
+
+Voice Recognition
+
+Natural Language Processing
+
+Large Scale Data Analysis
+3
+
+Artificial Intelligence – What is it? – Definitions
+“Artificial Intelligence is
+• “Artificial intelligence (AI) refers to systems that
+the science and
+display intelligent behaviour by analysing their
+environment and taking actions – with some
+engineering of making
+degree of autonomy – to achieve specific goals.”
+intelligent machines,
+• - EU Communication 25 April 2018
+especially intelligent
+computer programs.”
+- John McCarthy, Stanford
+
+“the scientific understanding of the mechanisms underlying thought
+and intelligent behavior and their embodiment in machines.”
+- AAAI
+4
+
+What is intelligence?
+• Legg and Hutter made a survey of 71 different definitions of
+intelligence in 2007.
+
+• Commonly occurring features:
+• Is a property that an individual agent has as it interacts with its
+• environment or environments.
+
+• Is related to the agent’s ability to succeed or profit with respect to
+• some goal or objective.
+• Depends on how able the agent is to adapt to different objectives
+and
+
+• environments
+• Based on this, they came up with: “Intelligence measures an
+agent’s ability to achieve goals in a wide range of
+environments.”
+
+https://arxiv.org/pdf/0706.3639.pdf%20a%20collection%20of%
+HTTPS://ARXIV.ORG/PDF/0706.363
+
+20definitions%20of%20intelligence
+20DEFINITIONS%20OF%20INTELLI
+
+https://arxiv.org/pdf/0706.3639.pdf%20a%20collection%20of%
+9.PDF%20A%20COLLECTION%20O
+https://arxiv.org/pdf/0706.3639.pdf%20a%20collection%20of%
+F%
+
+20definitions%20of%20intelligence
+GENCE
+
+5
+
+Artificial Intelligence – Four Views
+
+6
+
+Artificial Intelligence – The Intelligent Agent Paradigm
+• Intelligent agent (AI-agent)
+
+Goal
+Observe
+Agent
+
+Environment
+
+Influence
+
+Computer program or physical robot
+A city, a mine,
+the stock market, the web, …
+
+• Intelligent capabilities through integration of AI techniques
+7
+
+From Peter Norvig, Google
+Computer Science:
+Doing the right thing, efficiently, when you can
+define what that means in advance.
+Artificial intelligence:
+Doing the right thing, efficiently, when you don’t
+know what
+that means in advance.
+
+Shifting from design-time to run-time.
+
+Artificial Intelligence (AI)
+Machine Learning
+(ML)
+
+Deep Learning (DL)
+
+9
+
+10
+
+https://web.cs.ucla.edu/~guyvdb/slides/ComputersAndThought.pdf
+
+11
+
+https://web.cs.ucla.edu/~guyvdb/slides/ComputersAndThought.pdf
+
+12
+
+Human and Computational Thinking
+
+13
+
+<
+
+<
+
+“Weak human + machine + superior process was greater than a strong computer
+and, remarkably, greater than a strong human + machine with inferior process.”
+Garry Kasparov
+14
+
+

@@ -1,0 +1,112 @@
+AI
+Automated Planning
+
+What is Automated Planning?
+• ⇝ finding plans (sequences of actions)
+• that lead from an initial state to a goal state
+• Here: classical planning
+
+• general approach to finding
+solutions for state-space search
+problems
+
+• classical = static, deterministic, fully
+observable
+
+• variants: probabilistic planning, planning
+under partial observability, online planning, . . .
+
+“Planning is the
+art and practice
+of thinking
+before acting.”
+• P. Haslum
+2
+
+Classification
+
+Automated Planning
+
+3
+
+Planning: Informally
+given:
+• state space description in terms of suitable problem
+description language (planning formalism)
+
+required:
+• a plan, i.e., a solution for the described state space
+(sequence of actions from initial state to goal)
+• or a proof that no plan exists
+
+distinguish between
+• optimal planning: guarantee that returned plans are
+optimal, i.e., have minimal overall cost
+• suboptimal planning (satisficing): suboptimal plans
+are allowed
+
+4
+
+What is New?
+Many previously encountered problems are planning tasks:
+blocks world
+route planning in romania missionaries and cannibals 15puzzle
+New: we are now interested in general algorithms, i.e., the
+developer of the search algorithm does not know the tasks
+that the algorithm needs to solve.
+⇝ no problem-specific heuristics!
+⇝ input language to model the planning task
+5
+
+State Space
+
+(action names omitted; initial
+state and goal can be
+arbitrary)
+
+• state spaces are (labeled, directed) graphs
+• terminology: predecessor, successor, applicable action,
+path, length, costs, reachable, solution, optimal solution
+6
+
+State Spaces with Declarative Representations
+How do we represent state spaces in the computer?
+previously: as black box
+now: as declarative description
+
+represent state spaces declaratively:
+• compact description of state space as input to algorithms
+⇝ state spaces exponentially larger than the input
+• algorithms directly operate on compact description
+⇝ allows automatic reasoning about problem: reformulation,
+simplification, abstraction, etc.
+7
+
+Compact Description of State Spaces
+How to describe state spaces compactly?
+Compact Description of Several States
+
+• introduce state variables
+• states: assignments to state variables
+⇝ e.g., n binary state variables can describe 2n states
+
+• transitions and goal are compactly described with a logic-based formalism
+⇝ different variants: different planning formalisms
+
+8
+
+Summary
+
+planning:
+search in
+general state
+spaces
+
+input: compact,
+declarative
+description of
+state space
+
+9
+
+
